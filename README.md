@@ -1,5 +1,5 @@
 # ECCPD
-Convex and Compact Superpixels byEdge-Constrained Centroidal Power Diagram.
+Convex and Compact Superpixels by Edge-Constrained Centroidal Power Diagram.
 
 step1:
 Run ECCPD.exe 
