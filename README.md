@@ -1,7 +1,7 @@
 # ECCPD
 # Convex and Compact Superpixels by Edge-Constrained Centroidal Power Diagram.
 
-This is the first version of our project. If our paper is accepted, we will provide some details such as post-processing and applications. Here's how to use our approach:
+This is the first version of our project (no post-processing). If our paper is accepted, we will provide some details such as post-processing and applications. Here's how to use our approach:
 
 step1:
 Run ECCPD.exe 
