@@ -4,16 +4,17 @@
 This is the first version of our project. If our paper is accepted, we will provide details of post-processing and application.Here's how to use our approach:
 
 step1:
+
 Run ECCPD.exe 
 
 
 step2:
-#  Enter the name of the image to be processed under the 'Input' folder：
+Enter the name of the image to be processed under the 'Input' folder：
 ==>40.jpg
 
 
 step3:
-#  Enter the number of superpixels：（300-3000）
+Enter the number of superpixels：（300-3000）
 ==>1000
 
 
