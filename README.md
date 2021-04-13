@@ -2,6 +2,7 @@
 # Convex and Compact Superpixels by Edge-Constrained Centroidal Power Diagram.
 
 This is the first version of our project (no post-processing). 
+
 step1:
 Run ECCPD.exe 
 
