@@ -29,5 +29,5 @@ of the image and put it in the "rcf" folder. This program does not integrate RCF
  (https://github.com/meteorshowers/RCF-pytorch)
 
 Note that the program can only process one image at a time, requiring you to enter the name of the image and the number of superpixels required. For your convenience, I made a program 'https://github.com/madongyang-stack/ECCPD_batch' that can be batch processed, so you just need to enter the number of superpixels you want into cpd.exe. However, you need to put images and RCFs into the 'Input' and 'rcf' folders in advance.  
-#If you need help, please email 2024335573@qq.com
+# If you need help, please email 2024335573@qq.com
 
