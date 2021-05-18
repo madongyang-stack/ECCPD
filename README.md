@@ -1,6 +1,6 @@
 # ECCPD
 # Convex and Compact Superpixels by Edge-Constrained Centroidal Power Diagram.
-##Dongyang Ma, Yuanfeng Zhou, Shiqing Xin, Wenping Wang:Convex and Compact Superpixels by Edge- Constrained Centroidal Power Diagram. IEEE Trans. Image Process. 30: 1825-1839 (2021)
+Dongyang Ma, Yuanfeng Zhou, Shiqing Xin, Wenping Wang:Convex and Compact Superpixels by Edge- Constrained Centroidal Power Diagram. IEEE Trans. Image Process. 30: 1825-1839 (2021)
 
 This is the first version of our project (no post-processing). 
 
