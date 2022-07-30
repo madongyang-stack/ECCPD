@@ -32,13 +32,13 @@ of the image and put it in the "rcf" folder. This program does not integrate RCF
 Note that the program can only process one image at a time, requiring you to enter the name of the image and the number of superpixels required. For your convenience, I made a program 'https://github.com/madongyang-stack/ECCPD_batch' that can be batch processed, so you just need to enter the number of superpixels you want into cpd.exe. However, you need to put images and RCFs into the 'Input' and 'rcf' folders in advance.  
 # If you need help, please email 2024335573@qq.com
 
-#If you use this work in your research , please use the following BibTeX entries:
+If you use this work in your research , please use the following BibTeX entries:
 @article{DBLP:journals/tip/MaZXW21,
   author    = {Dongyang Ma and
                Yuanfeng Zhou and
                Shiqing Xin and
                Wenping Wang},
-  title     = {Convex and Compact Superpixels by Edge- Constrained Centroidal Power
+  title     = {Convex and Compact Superpixels by Edge-Constrained Centroidal Power
                Diagram},
   journal   = {{IEEE} Trans. Image Process.},
   volume    = {30},
@@ -47,6 +47,4 @@ Note that the program can only process one image at a time, requiring you to ent
   url       = {https://doi.org/10.1109/TIP.2020.3045640},
   doi       = {10.1109/TIP.2020.3045640},
   timestamp = {Tue, 01 Jun 2021 10:00:32 +0200},
-  biburl    = {https://dblp.org/rec/journals/tip/MaZXW21.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
