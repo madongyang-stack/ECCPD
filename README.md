@@ -34,17 +34,30 @@ Note that the program can only process one image at a time, requiring you to ent
 
 If you use this work in your research , please use the following BibTeX entries:
 @article{DBLP:journals/tip/MaZXW21,
+
   author    = {Dongyang Ma and
+  
                Yuanfeng Zhou and
+               
                Shiqing Xin and
+               
                Wenping Wang},
+               
   title     = {Convex and Compact Superpixels by Edge-Constrained Centroidal Power
                Diagram},
+               
   journal   = {{IEEE} Trans. Image Process.},
+  
   volume    = {30},
+  
   pages     = {1825--1839},
+  
   year      = {2021},
+  
   url       = {https://doi.org/10.1109/TIP.2020.3045640},
+  
   doi       = {10.1109/TIP.2020.3045640},
+  
   timestamp = {Tue, 01 Jun 2021 10:00:32 +0200},
+  
 }
